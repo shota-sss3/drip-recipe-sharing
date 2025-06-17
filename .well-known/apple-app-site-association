@@ -1,0 +1,11 @@
+    {
+      "applinks": {
+        "apps": [],
+        "details": [
+          {
+            "appID": "JT47BC9VRD.ss.DripRecipe",
+            "paths": [ "/drip-recipe-sharing/*" ]
+          }
+        ]
+      }
+    }
